@@ -2,7 +2,7 @@
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspatkar&show_icons=true&theme=merko)](https://github.com/itspatkar/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspatkar&show_icons=true&theme=merko)](https://github.com/ItsKapri/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKapri&show_icons=true&theme=merko&layout=compact)](https://github.com/ItsKapri)
 
