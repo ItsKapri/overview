@@ -22,7 +22,7 @@
   <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   
     
-<img align="left" alt="git" width="40px" src="https://images.velog.io/images/hdy20201004/post/a4971fcf-9f20-40ce-b307-92c14701ea78/git_logo.png" />
+<img align="left" alt="git" width="40px" src="https://varadbhogayata.github.io/assets/img/git.png" />
   
   
   
