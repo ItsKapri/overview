@@ -2,6 +2,8 @@
 
 <h1 align="center">Hii! I'm  < Nilesh Kapri /> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 
+<h3 align="center">I am a Software Developer | Web Developer & Designer | Open-Source Contributor</h3>
+
 <br>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskapri&show_icons=true&theme=merko)](https://github.com/itsKapri/)
