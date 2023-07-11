@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://minhaj-313.io)
 
-<h1 align="center">Hii! I'm Nilesh Kapri <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+<h1 align="center">Hii! I'm  < Nilesh Kapri /> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 
 <br>
 
