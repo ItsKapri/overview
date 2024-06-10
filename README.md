@@ -24,21 +24,21 @@
 ```javascript
 const itsKapri = {
   pronouns: "He/Him",
-  language: ["JavaScript", "TypeScript", "Kotlin"],
+  language: [JavaScript, TypeScript, Kotlin],
   askMeAbout: ["Web Development", "Tech", "App Development", "Android Development", "New Games"],
   technologies: {
       frontEnd: {
-          basic: ["HTML", "CSS", "Bootstrap", "Material-UI"],
-          js: ["React", "React Native"]
+          basic: [HTML, CSS, Bootstrap, Material-UI],
+          js: [React, React Native]
       },
       backEnd: {
-          js: ["Node.js", "Express"]
+          js: [Node.js, Express]
       },
       mobileApp: {
-          Android: ["Kotlin", "Kotlin Jetpack"],
-          crossPlatform: ["React Native"]
+          Android: [Kotlin, Kotlin Jetpack],
+          crossPlatform: [React Native]
       },
-      databases: "MongoDB"
+      databases: MongoDB
   },
   architecture: [
                 "Serverless Architecture", 
